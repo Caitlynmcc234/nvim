@@ -7,7 +7,7 @@ return {
       'lua',
       'bash',
       'python',
-      'qmldir',
+      'qmljs',
       'fish',
       'c',
       'css',
